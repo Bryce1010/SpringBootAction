@@ -7,15 +7,21 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Application" />
+        <module name="MultiYmlDemo" />
+        <module name="PropertiesDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Application" target="1.8" />
+      <module name="MultiYmlDemo" target="1.8" />
+      <module name="PropertiesDemo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Application" options="-parameters" />
+      <module name="MultiYmlDemo" options="-parameters" />
+      <module name="PropertiesDemo" options="-parameters" />
     </option>
   </component>
 </project>
