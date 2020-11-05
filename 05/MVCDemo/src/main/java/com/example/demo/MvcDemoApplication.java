@@ -1,0 +1,12 @@
+package com.example.demo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.thymeleaf.spring5.expression.Mvc;
+
+@SpringBootApplication
+public class MvcDemoApplication {
+    public static void main(String[] args) {
+        SpringApplication.run(MvcDemoApplication.class,args);
+    }
+}
