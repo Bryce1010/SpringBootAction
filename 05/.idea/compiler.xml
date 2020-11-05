@@ -8,17 +8,20 @@
         <outputRelativeToContentRoot value="true" />
         <module name="MVCDemo" />
         <module name="Thymeleaf" />
+        <module name="ValidatorDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="MVCDemo" target="1.8" />
       <module name="Thymeleaf" target="1.8" />
+      <module name="ValidatorDemo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="MVCDemo" options="-parameters" />
       <module name="Thymeleaf" options="-parameters" />
+      <module name="ValidatorDemo" options="-parameters" />
     </option>
   </component>
 </project>

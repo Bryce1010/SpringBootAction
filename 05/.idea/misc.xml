@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/Thymeleaf/pom.xml" />
         <option value="$PROJECT_DIR$/MVCDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/ValidatorDemo/pom.xml" />
       </list>
     </option>
   </component>

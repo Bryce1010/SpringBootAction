@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/05.iml" filepath="$PROJECT_DIR$/.idea/05.iml" />
       <module fileurl="file://$PROJECT_DIR$/MVCDemo/MVCDemo.iml" filepath="$PROJECT_DIR$/MVCDemo/MVCDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thymeleaf/Thymeleaf.iml" filepath="$PROJECT_DIR$/Thymeleaf/Thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValidatorDemo/ValidatorDemo.iml" filepath="$PROJECT_DIR$/ValidatorDemo/ValidatorDemo.iml" />
     </modules>
   </component>
 </project>
