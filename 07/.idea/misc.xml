@@ -4,6 +4,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/AopLog/pom.xml" />
+        <option value="$PROJECT_DIR$/IOCBean/pom.xml" />
+        <option value="$PROJECT_DIR$/MyAnnotationDemo/pom.xml" />
       </list>
     </option>
   </component>
