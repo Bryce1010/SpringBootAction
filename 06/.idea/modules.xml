@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/06.iml" filepath="$PROJECT_DIR$/.idea/06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebFluxDemoCRUD/WebFluxDemoCRUD.iml" filepath="$PROJECT_DIR$/WebFluxDemoCRUD/WebFluxDemoCRUD.iml" />
       <module fileurl="file://$PROJECT_DIR$/WebFluxDemoHelloWorld/WebFluxDemoHelloWorld.iml" filepath="$PROJECT_DIR$/WebFluxDemoHelloWorld/WebFluxDemoHelloWorld.iml" />
     </modules>
   </component>
