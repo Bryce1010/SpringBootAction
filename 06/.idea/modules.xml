@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/06.iml" filepath="$PROJECT_DIR$/.idea/06.iml" />
       <module fileurl="file://$PROJECT_DIR$/WebFluxDemoCRUD/WebFluxDemoCRUD.iml" filepath="$PROJECT_DIR$/WebFluxDemoCRUD/WebFluxDemoCRUD.iml" />
       <module fileurl="file://$PROJECT_DIR$/WebFluxDemoHelloWorld/WebFluxDemoHelloWorld.iml" filepath="$PROJECT_DIR$/WebFluxDemoHelloWorld/WebFluxDemoHelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebFluxReactiveDemo/WebFluxReactiveDemo.iml" filepath="$PROJECT_DIR$/WebFluxReactiveDemo/WebFluxReactiveDemo.iml" />
     </modules>
   </component>
 </project>

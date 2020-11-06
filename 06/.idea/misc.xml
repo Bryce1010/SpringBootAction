@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/WebFluxDemoHelloWorld/pom.xml" />
         <option value="$PROJECT_DIR$/WebFluxDemoCRUD/pom.xml" />
+        <option value="$PROJECT_DIR$/WebFluxReactiveDemo/pom.xml" />
       </list>
     </option>
   </component>

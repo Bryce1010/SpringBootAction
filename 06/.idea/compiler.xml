@@ -9,17 +9,20 @@
         <outputRelativeToContentRoot value="true" />
         <module name="WebFluxDemoCRUD" />
         <module name="WebFluxDemoHelloWorld" />
+        <module name="WebFluxReactiveDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="WebFluxDemoCRUD" target="1.8" />
       <module name="WebFluxDemoHelloWorld" target="1.8" />
+      <module name="WebFluxReactiveDemo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="WebFluxDemoCRUD" options="-parameters" />
       <module name="WebFluxDemoHelloWorld" options="-parameters" />
+      <module name="WebFluxReactiveDemo" options="-parameters" />
     </option>
   </component>
 </project>
