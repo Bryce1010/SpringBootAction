@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/AopLog/AopLog.iml" filepath="$PROJECT_DIR$/AopLog/AopLog.iml" />
       <module fileurl="file://$PROJECT_DIR$/IOCBean/IOCBean.iml" filepath="$PROJECT_DIR$/IOCBean/IOCBean.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyAnnotationDemo/MyAnnotationDemo.iml" filepath="$PROJECT_DIR$/MyAnnotationDemo/MyAnnotationDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnitTestDemo/UnitTestDemo.iml" filepath="$PROJECT_DIR$/UnitTestDemo/UnitTestDemo.iml" />
     </modules>
   </component>
 </project>

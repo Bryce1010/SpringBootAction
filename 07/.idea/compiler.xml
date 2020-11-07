@@ -9,12 +9,14 @@
         <module name="IOCBean" />
         <module name="AopLog" />
         <module name="MyAnnotationDemo" />
+        <module name="UnitTestDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="AopLog" target="1.8" />
       <module name="IOCBean" target="1.8" />
       <module name="MyAnnotationDemo" target="1.8" />
+      <module name="UnitTestDemo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -22,6 +24,7 @@
       <module name="AopLog" options="-parameters" />
       <module name="IOCBean" options="-parameters" />
       <module name="MyAnnotationDemo" options="-parameters" />
+      <module name="UnitTestDemo" options="-parameters" />
     </option>
   </component>
 </project>
