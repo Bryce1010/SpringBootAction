@@ -31,5 +31,6 @@
 
 ## 08 用ORM操作SQL数据库
 - 08/Jdbc 用JDBCTemplate实现数据的CRUD
+- 08/JpaEntityDemo 用JPA构建实体数据表
 
 
