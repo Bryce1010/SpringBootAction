@@ -7,14 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Jdbc" />
-        <module name="JpaEntityDemo" />
         <module name="JpaArticleDemo" />
+        <module name="JpaEntityDemo" />
+        <module name="MybatisCURD" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Jdbc" target="1.8" />
       <module name="JpaArticleDemo" target="1.8" />
       <module name="JpaEntityDemo" target="1.8" />
+      <module name="MybatisCURD" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -22,6 +24,7 @@
       <module name="Jdbc" options="-parameters" />
       <module name="JpaArticleDemo" options="-parameters" />
       <module name="JpaEntityDemo" options="-parameters" />
+      <module name="MybatisCURD" options="-parameters" />
     </option>
   </component>
 </project>

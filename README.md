@@ -33,4 +33,5 @@
 - 08/Jdbc 用JDBCTemplate实现数据的CRUD
 - 08/JpaEntityDemo 用JPA构建实体数据表
 - 08/JpaArticleDemo 用JPA开发文章管理模块
+- 08/MybatisCRUD 用Mybatis实现对数据的CRUD
 

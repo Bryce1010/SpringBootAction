@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Jdbc/Jdbc.iml" filepath="$PROJECT_DIR$/Jdbc/Jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/JpaArticleDemo/JpaArticleDemo.iml" filepath="$PROJECT_DIR$/JpaArticleDemo/JpaArticleDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JpaEntityDemo/JpaEntityDemo.iml" filepath="$PROJECT_DIR$/JpaEntityDemo/JpaEntityDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MybatisCURD/MybatisCURD.iml" filepath="$PROJECT_DIR$/MybatisCURD/MybatisCURD.iml" />
     </modules>
   </component>
 </project>

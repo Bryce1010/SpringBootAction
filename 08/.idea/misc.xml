@@ -6,6 +6,7 @@
         <option value="$PROJECT_DIR$/Jdbc/pom.xml" />
         <option value="$PROJECT_DIR$/JpaEntityDemo/pom.xml" />
         <option value="$PROJECT_DIR$/JpaArticleDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/MybatisCURD/pom.xml" />
       </list>
     </option>
   </component>

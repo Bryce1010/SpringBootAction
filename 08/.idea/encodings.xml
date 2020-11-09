@@ -4,5 +4,6 @@
     <file url="file://$PROJECT_DIR$/Jdbc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/JpaArticleDemo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/JpaEntityDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MybatisCURD/src/main/java" charset="UTF-8" />
   </component>
 </project>
