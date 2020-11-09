@@ -38,3 +38,5 @@
 ## 09 接口架构风格 - RESTful
 - 09/RESTful 为手机APP、PC、H5网页提供统一风格的API
 - 09/Swagger 用Swagger实现接口文档 
+- 09/RestTemplate 用RestTemplate接受JAVA HTTP请求
+
