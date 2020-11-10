@@ -43,6 +43,9 @@
 
 ## 11 集成Redis，实现高并发
 - 11/CacheDemo 用SpringCache 进行缓存管理
+- 11/RedisCRUD 用Redis和Mybatis完成缓存数据的增加、删除、修改、查询功能
+- 11/RedisSession 实现分布式Session
+
 
 
 
