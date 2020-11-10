@@ -40,3 +40,9 @@
 - 09/Swagger 用Swagger实现接口文档 
 - 09/RestTemplate 用RestTemplate接受JAVA HTTP请求
 
+
+## 11 集成Redis，实现高并发
+- 11/CacheDemo 用SpringCache 进行缓存管理
+
+
+
